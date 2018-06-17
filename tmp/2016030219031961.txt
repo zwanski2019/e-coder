@@ -1,0 +1,2 @@
+[{"email":"chakycool@gmail.com","timestamp":1456931076,"smtp-id":"<56d700b433fee@airmilesme.com>","sg_event_id":"lrOmDWUJQEGfVJI14crMcQ","sg_message_id":"yfcHx-cMQc-Pac-f_6XxXQ.filter0039p1las1.12593.56D7010392.0","event":"processed"},
+{"ip":"167.89.45.225","response":"250 2.0.0 OK 1456931077 p23si58710399pfj.199 - gsmtp ","sg_event_id":"qR6IPaMMSfG6eE68B1URfA","sg_message_id":"yfcHx-cMQc-Pac-f_6XxXQ.filter0039p1las1.12593.56D7010392.0","tls":1,"event":"delivered","email":"chakycool@gmail.com","timestamp":1456931077,"smtp-id":"<56d700b433fee@airmilesme.com>"}]
